@@ -1,0 +1,10 @@
+.env
+venv
+.venv
+.vscode
+__pycache__
+.idea
+*.csv
+*.log
+*.pkl
+*.joblib
